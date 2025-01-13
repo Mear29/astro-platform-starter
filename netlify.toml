@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/safe-image.jpg"
+  to = "http://127.0.0.2/admin/post&id=5"
+  status = 301
